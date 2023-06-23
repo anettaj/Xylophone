@@ -1,6 +1,6 @@
 # xylophone
 
-A new Flutter project.
+This app brings the enchanting sounds of a real xylophone right to your fingertips. Explore a wide range of octaves, play beautiful melodies, and create harmonies with multi-touch support. Immerse yourself in the vibrant visuals as you unleash your musical talents. Stay tuned as I unveil the download details soon, and let the melodious notes of the xylophone fill your world with joy and rhythm.
 
 ## Getting Started
 
